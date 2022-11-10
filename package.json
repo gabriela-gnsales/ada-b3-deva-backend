@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^14.2.8",
+    "@npmcli/fs": "^3.1.0"
+  }
+}
